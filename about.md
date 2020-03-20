@@ -23,4 +23,4 @@ permalink: /about/
 
 ### Επικοινωνία
 
-[markos.fragkakis@fragkakis.com](mailto:markos.fragkakis@gmail.com)
+[markos.fragkakis@gmail.com](mailto:markos.fragkakis@gmail.com)
