@@ -1,15 +1,26 @@
 ---
 layout: page
-title: About
+title: Σχετικά
 permalink: /about/
 ---
 
-Some information about you!
+Γειά χαρά! Λέγομαι [Μάρκος Φραγκάκης](https://www.linkedin.com/in/fragkakis/).
 
-### More Information
+Με τον εγκλεισμό λόγω κορονοϊού, εμείς οι γονείς βρεθήκαμε να παίζουμε το δύσκολο ρόλο του δασκάλου. Μαζί με τους άλλους γονείς της τάξης, καθώς και με συναδέλφους, μαζέψαμε κάποιο υλικό το οποίο παραθέτουμε στη σελίδα αυτή, ώστε να βοηθήσει και άλλους γονείς.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Πώς μπορώ να συνεισφέρω υλικό;
 
-### Contact me
+Εάν ξέρετε τι είναι τα Pull Request στο Github, τότε ο γρηγορότερος τρόπος είναι να κάνετε ένα PR [εδώ](https://github.com/fragkakis/coronaparents/).
 
-[email@domain.com](mailto:email@domain.com)
+Διαφορετικά, αφήστε ένα σχόλειο στη σελίδα της τάξης για την οποία είναι το υλικό που θέλετε να συνεισφέρετε.
+
+### Τι είδους υλικό χρειάζεστε;
+
+Το υλικό που ενδιαφέρει τους γονείς είναι:
+
+* εκτυπώσιμο υλικό (πχ ασκήσεις γλώσσας, μαθηματικών)
+* σελίδες στο internet με εκπαιδευτικό υλικό και υλικό δημιουργικής απασχόλησης
+
+### Επικοινωνία
+
+[markos.fragkakis@fragkakis.com](mailto:markos.fragkakis@gmail.com)
