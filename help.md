@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Σχετικά
-permalink: /about/
+title: Βοηθήστε
+permalink: /help/
 ---
 
 ### Πώς μπορώ να συνεισφέρω υλικό;
